@@ -1,1 +1,1 @@
-# mangarti-mini
+# MangARTI mini
